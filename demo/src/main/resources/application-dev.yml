@@ -1,0 +1,6 @@
+democonfiguration:
+  demo:
+    demo-message: "Development"
+    
+info:
+  message: "Development"

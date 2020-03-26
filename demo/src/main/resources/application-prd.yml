@@ -1,0 +1,6 @@
+democonfiguration:
+  demo:
+    demo-message: "Production"
+
+info:
+  message: "Production"

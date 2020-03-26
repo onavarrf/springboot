@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: dev
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+info:
+  message: "None"
+
+server:
+  port: 8081
+  
+democonfiguration:
+  demo:
+    demo-message: "None"
